@@ -56,4 +56,7 @@ class zsDb
         return 1;
     }
 
+    public function testmy2(){
+        return 1;
+    }
 }
