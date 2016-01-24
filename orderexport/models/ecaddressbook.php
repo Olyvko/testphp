@@ -15,4 +15,8 @@ class ecaddressbook extends ecommerce {
      * @var string
      */
     protected $_sKeyName = 'address_book_id';
+
+    public function f1(){
+        return 1;
+    }
 }
