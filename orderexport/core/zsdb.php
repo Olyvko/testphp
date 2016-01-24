@@ -208,17 +208,7 @@ class zsDb
     {
         self::$_dbType = $oConfig->getVar('dbType');
 
-        self::$_dbUser = $oConfig->getVar('dbUser');
-        self::$_dbPwd = $oConfig->getVar('dbPwd');
-        self::$_dbName = 'loonytuns';//$oConfig->getVar('dbName');
-        self::$_dbHost = $oConfig->getVar('dbHost');
 
-        /*
-                self::$_dbUser = 'sportauspuff';
-                self::$_dbPwd = '8iKqXtwUsGvp';
-                self::$_dbName = 'loonytuns';
-                self::$_dbHost = 'db.zinit1.com';
-        */
         self::$_iDebug = $oConfig->getVar('iDebug');
         self::$_blLogChangesInAdmin = $oConfig->getVar('blLogChangesInAdmin');
         self::$_iUtfMode = $oConfig->getVar('iUtfMode');
