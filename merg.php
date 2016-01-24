@@ -10,4 +10,10 @@ class merg {
     }
 
 
+
+    public function me222(){
+        return 8;
+    }
+
+
 }
