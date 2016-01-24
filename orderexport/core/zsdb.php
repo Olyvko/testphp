@@ -52,4 +52,7 @@ class zsDb
         return 1;
     }
 
+    public function testmy12(){
+        return 1;
+    }
 }
