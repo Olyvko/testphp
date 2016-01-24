@@ -52,4 +52,8 @@ class zsDb
         return 1;
     }
 
+    public function func2(){
+        return 1;
+    }
+
 }
