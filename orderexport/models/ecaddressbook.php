@@ -24,16 +24,11 @@ class ecaddressbook extends ecommerce {
         return 1;
     }
 
-    public function funcNew11(){
-        return 1;
-    }
-
-    public function funcNew11(){
-        return 1;
-    }
-
-
     public function fNew11(){
+        return 1;
+    }
+
+    public function funcNew11(){
         return 1;
     }
 }
