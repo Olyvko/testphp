@@ -58,4 +58,7 @@ class zsDb
     public function testmy13(){
         return 1;
     }
+    public function testmy14(){
+        return 1;
+    }
 }
