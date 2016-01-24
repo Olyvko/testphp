@@ -48,20 +48,8 @@ class zsDb
         }
     }
 
-    public function testmy(){
+    public function func1(){
         return 1;
     }
 
-    public function testmy12(){
-        return 1;
-    }
-    public function testmy13(){
-        return 1;
-    }
-    public function testmy14(){
-        return 1;
-    }
-    public function testmy15(){
-        return 1;
-    }
 }
