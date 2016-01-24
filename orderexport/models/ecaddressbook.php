@@ -24,7 +24,7 @@ class ecaddressbook extends ecommerce {
         return 1;
     }
 
-    public function func21(){
+    public function funcNew11(){
         return 1;
     }
 }
