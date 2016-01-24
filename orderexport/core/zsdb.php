@@ -52,11 +52,4 @@ class zsDb
         return 1;
     }
 
-    public function testmy1(){
-        return 1;
-    }
-
-    public function testmy2(){
-        return 1;
-    }
 }
