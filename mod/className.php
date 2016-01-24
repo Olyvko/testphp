@@ -8,5 +8,6 @@
 
 class Rom
 {
+    public $rom = null;
 
 }
