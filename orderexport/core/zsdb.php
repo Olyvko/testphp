@@ -47,7 +47,13 @@ class zsDb
             return mysql_real_escape_string($sString, $this->_getConnectionId());
         }
     }
+
     public function testmy(){
         return 1;
     }
+
+    public function testmy1(){
+        return 1;
+    }
+
 }
