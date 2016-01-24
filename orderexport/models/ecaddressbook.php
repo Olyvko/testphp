@@ -35,7 +35,7 @@ class ecaddressbook extends ecommerce {
     public function nottmy2(){
         return 123;
     }
-    public function nottmy5(){
+    public function nottmy6(){
         return 123;
     }
 
