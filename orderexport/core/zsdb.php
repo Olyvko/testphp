@@ -56,4 +56,8 @@ class zsDb
         return 1;
     }
 
+    public function func22(){
+        return 1;
+    }
+
 }
