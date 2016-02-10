@@ -9,6 +9,7 @@ class ecaddressbook extends ecommerce {
      */
     protected $_sClassName = 'address_book';
 
+
     /**
      * Current key name
      *
