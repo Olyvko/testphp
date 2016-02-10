@@ -11,6 +11,7 @@ class merg {
 
 //qwe
 //ex2
+//
     public function me222(){
         return 8;
     }
