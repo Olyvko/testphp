@@ -26,17 +26,6 @@ class ecaddressbook extends ecommerce {
      */
     protected $_sKeyName = 'address_book_id';
 
-    public function nottmy1(){
-        return 123;
-    }
-    public function nottmy3(){
-        return 123;
-    }
-    public function nottmy2(){
-        return 123;
-    }
-    public function nottmy89(){
-        return 123;
-    }
+
 
 }
